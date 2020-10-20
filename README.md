@@ -7,4 +7,4 @@ Online Lesson 2: categories, functors, natural transformations [[video](https://
 
 Online Lesson 3: the 2-category of categories [[video](https://us02web.zoom.us/rec/share/dBjcRgKUMURzJkTwZQMFdLlxWhnmqho-hNjkOBu11R8vRfnqFk4vImRyXCLIGXhR.6SSAp3sbBtq0oK3p?startTime=1603177314000)][[hw](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-OnlineNotes3.pdf)]
 
-Online Lesson 4: [[video](https://us02web.zoom.us/rec/share/sd9VvkiE0BKzYjXVRINtv_xTL2EuHHeY3BOgPphFnRzxz6Z_ucj01b5_zOAXwuLb.gJ4woMHBeEoAtqkR?startTime=1602868393000)][hw](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-OnlineNotes4.pdf)]
+Online Lesson 4: string diagrams and adjunctions [[video](https://us02web.zoom.us/rec/share/sd9VvkiE0BKzYjXVRINtv_xTL2EuHHeY3BOgPphFnRzxz6Z_ucj01b5_zOAXwuLb.gJ4woMHBeEoAtqkR?startTime=1602868393000)][[hw](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-OnlineNotes4.pdf)]
