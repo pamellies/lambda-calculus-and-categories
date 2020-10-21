@@ -1,4 +1,4 @@
-# Lambda-calculus and Categories
+# Lambda-Calculus and Categories
 A repository for the material of my course on lambda-calculus and categories
 
 Lesson 1: introduction to the course [[video](https://us02web.zoom.us/rec/share/n_pvSS5lHAaE5Dxmcb-gbmRv1DB4E_blgSg59DrYYFhuPuBwEbecLXBqEYx0Csql.5s63NimbikZWNaCp?startTime=1601054013000)][[notes](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-OnlineNotes1.pdf)]
