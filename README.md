@@ -12,3 +12,7 @@ Lesson 4: string diagrams and adjunctions [[video](https://us02web.zoom.us/rec/s
 Lesson 5: the free cartesian category
 
 Lesson 6: introduction to the lambda-calculus 
+
+Lesson 7: adjunctions in 2-categories, monads, comonads
+
+Lesson 8: semantics of monadic effects
