@@ -21,7 +21,7 @@ Lesson 9: limits, colimits, Kan extensions
 
 Lesson 10: presheaves, Yoneda embedding, calculus of distributors
 
-Lesson 11: algebraic theories, algebraic effects
+Lesson 11: polymorphic lambda-calculus, parametricity, theorems for free
 
 Lesson 12: dependent types, contextual categories
 
