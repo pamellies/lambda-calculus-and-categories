@@ -11,7 +11,7 @@ Lesson 4: string diagrams and adjunctions [[video](https://us02web.zoom.us/rec/s
 
 Lesson 5: the free cartesian category
 
-Lesson 6: introduction to the lambda-calculus 
+Lesson 6: introduction to the lambda-calculus, the free cartesian closed category
 
 Lesson 7: adjunctions in 2-categories, monads, comonads
 
@@ -21,5 +21,7 @@ Lesson 9: limits, colimits, Kan extensions
 
 Lesson 10: presheaves, Yoneda embedding, calculus of distributors
 
-Lesson 11: dependent types, contextual categories
+Lesson 11: polymorphism, parametricity, theorems for free
+
+Lesson 12: dependent types, contextual categories
 
