@@ -23,5 +23,5 @@ Lesson 10: presheaves, Yoneda embedding, calculus of distributors
 
 Lesson 11: polymorphic lambda-calculus, parametricity, theorems for free
 
-Lesson 12: dependent types, contextual categories
+Lesson 12: lambda-calculus with dependent types, contextual categories
 
