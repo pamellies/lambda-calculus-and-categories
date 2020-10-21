@@ -19,5 +19,7 @@ Lesson 8: monadic effects, computational lambda-calculus
 
 Lesson 9: limits, colimits, Kan extensions
 
-Lesson 10: dependent types, contextual categories
+Lesson 10: presheaves, Yoneda embedding, calculus of distributors
+
+Lesson 11: dependent types, contextual categories
 
