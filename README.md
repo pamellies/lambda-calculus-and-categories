@@ -16,3 +16,8 @@ Lesson 6: introduction to the lambda-calculus
 Lesson 7: adjunctions in 2-categories, monads, comonads
 
 Lesson 8: monadic effects, computational lambda-calculus
+
+Lesson 9: limits, colimits, Kan extensions
+
+Lesson 10: dependent types, contextual categories
+
