@@ -9,7 +9,7 @@ Lesson 3: the 2-category of categories [[video](https://us02web.zoom.us/rec/shar
 
 Lesson 4: string diagrams and adjunctions [[video](https://us02web.zoom.us/rec/share/sd9VvkiE0BKzYjXVRINtv_xTL2EuHHeY3BOgPphFnRzxz6Z_ucj01b5_zOAXwuLb.gJ4woMHBeEoAtqkR?startTime=1602868393000)][[notes](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-OnlineNotes4.pdf)]
 
-Lesson 5: the free cartesian category
+Lesson 5: the free cartesian category [[video]https://us02web.zoom.us/rec/share/uZyllja_oVaeGNzB01Fp8i_3KVt7oZy_SJpl7KA7KJO-ygm4Q6PG9ap39sTAyLdF.6hB8Wu67CgISWiLe?startTime=1603473377000)]
 
 Lesson 6: introduction to the lambda-calculus, the free cartesian closed category
 
