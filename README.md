@@ -25,6 +25,8 @@ Lesson 11: polymorphic lambda-calculus, parametricity, theorems for free
 
 Lesson 12: lambda-calculus with dependent types, contextual categories
 
+# Homeworks and exercises
+
 TD 1 : cartesian categories [[td](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-td-1-cartesian-categories.pdf)]
 
 TD 2 : coproducts, pullbacks, monoids [[td](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-td-2-coproducts-pullbacks-monoids.pdf)]
