@@ -33,4 +33,4 @@ TD 3 : adjunctions [[td](https://github.com/pamellies/lambda-calculus-and-catego
 
 TD 4 : another equivalent formulation of adjunctions [[td](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-td-4-another-formulation-of-adjunctions.pdf)]
 
-TD 5 : equalizers, epi-mono factorization, first-order logic [[td](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-td-5-another-formulation-of-adjunctions.pdf)]
+TD 5 : equalizers, epi-mono factorization, first-order logic [[td](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-td-5-regular-epi-mono.pdf)]
