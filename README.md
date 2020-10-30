@@ -25,3 +25,12 @@ Lesson 11: polymorphic lambda-calculus, parametricity, theorems for free
 
 Lesson 12: lambda-calculus with dependent types, contextual categories
 
+TD 1 : cartesian categories [[notes](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-OnlineNotes5.pdf)]
+
+TD 2 : coproducts, pullbacks, monoids
+
+TD 3 : adjunctions
+
+TD 4 : another equivalent formulation of adjunctions
+
+TD 5 : equalizers, epi-mono factorization, first-order logic 
