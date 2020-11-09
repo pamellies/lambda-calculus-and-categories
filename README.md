@@ -11,7 +11,7 @@ Lesson 4: string diagrams and adjunctions [[video](https://us02web.zoom.us/rec/s
 
 Lesson 5: the free cartesian category [[video](https://us02web.zoom.us/rec/share/uZyllja_oVaeGNzB01Fp8i_3KVt7oZy_SJpl7KA7KJO-ygm4Q6PG9ap39sTAyLdF.6hB8Wu67CgISWiLe?startTime=1603473377000)][[notes](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-OnlineNotes5.pdf)]
 
-Lesson 6: introduction to the lambda-calculus [[video](https://us02web.zoom.us/rec/share/Q-k1P6ELj1vUco0Kpa56nNKyMEhcwGaiHfu82fSOBv3T7FOH8PWYM3sXQDzaLqcT.0pwY7eMtDFimpszF)]
+Lesson 6: introduction to the lambda-calculus [[video](https://us02web.zoom.us/rec/share/Q-k1P6ELj1vUco0Kpa56nNKyMEhcwGaiHfu82fSOBv3T7FOH8PWYM3sXQDzaLqcT.0pwY7eMtDFimpszF)][[notes 1](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-OnlineNotes6a.pdf)][[notes 2](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-OnlineNotes6b.pdf)]
 
 Lesson 7: adjunctions in 2-categories, monads, comonads
 
