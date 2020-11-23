@@ -13,7 +13,7 @@ Lesson 5: the free cartesian category [[video](https://us02web.zoom.us/rec/share
 
 Lesson 6: introduction to the lambda-calculus [[video](https://us02web.zoom.us/rec/share/Q-k1P6ELj1vUco0Kpa56nNKyMEhcwGaiHfu82fSOBv3T7FOH8PWYM3sXQDzaLqcT.0pwY7eMtDFimpszF)][[notes 1](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-OnlineNotes6a.pdf)][[notes 2](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-OnlineNotes6b.pdf)]
 
-Lesson 7: computing recursive functions using the untyped lambda-calculus [[video](https://us02web.zoom.us/rec/share/cJoaRpUYz2Pt7bjGSCNUG6oMo80nCsNXYt0sYpGxexJe-nJNIp7SW5IAgmr9e-nC.tRwWIq-u2I4jZHyR?startTime=1605512147000)][[notes](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-OnlineNotes7.pdf)]
+Lesson 7: computing recursive functions using the untyped lambda-calculus [[notes](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-OnlineNotes7.pdf)]
 
 Lesson 8: the simply-typed lambda-calculus, Church encodings [[video](https://us02web.zoom.us/rec/share/cJoaRpUYz2Pt7bjGSCNUG6oMo80nCsNXYt0sYpGxexJe-nJNIp7SW5IAgmr9e-nC.tRwWIq-u2I4jZHyR?startTime=1605512147000)][[notes](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-OnlineNotes8.pdf)]
 
