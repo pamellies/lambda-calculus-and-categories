@@ -15,7 +15,8 @@ Lesson 6: introduction to the lambda-calculus [[video](https://us02web.zoom.us/r
 
 Lesson 7: computing recursive functions using the untyped lambda-calculus [[video](https://us02web.zoom.us/rec/share/cJoaRpUYz2Pt7bjGSCNUG6oMo80nCsNXYt0sYpGxexJe-nJNIp7SW5IAgmr9e-nC.tRwWIq-u2I4jZHyR?startTime=1605512147000)][[notes](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-OnlineNotes7.pdf)]
 
-Lesson 8: the simply-typed lambda-calculus, Church encodings [[notes](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-OnlineNotes8.pdf)]
+Lesson 8: the simply-typed lambda-calculus, Church encodings [[video](https://us02web.zoom.us/rec/share/lB9xePcWugwqcCRJKlSsNsBvnhETIBDL3TZZE7IC88JxxdsvBiAwHZel3gS7oL0b.XDoT5D9vOBCXVrv4?startTime=1606117306000)]
+[[notes](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-OnlineNotes8.pdf)]
 
 Lesson 9: adjunctions in 2-categories, monads, comonads
 monadic effects, computational lambda-calculus, limits, colimits, Kan extensions
