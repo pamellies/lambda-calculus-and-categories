@@ -13,9 +13,10 @@ Lesson 5: the free cartesian category [[video](https://us02web.zoom.us/rec/share
 
 Lesson 6: introduction to the lambda-calculus [[video](https://us02web.zoom.us/rec/share/Q-k1P6ELj1vUco0Kpa56nNKyMEhcwGaiHfu82fSOBv3T7FOH8PWYM3sXQDzaLqcT.0pwY7eMtDFimpszF)][[notes 1](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-OnlineNotes6a.pdf)][[notes 2](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-OnlineNotes6b.pdf)]
 
-Lesson 7: adjunctions in 2-categories, monads, comonads
+Lesson 7: computing using the lambda-calculus, the simply-typed lambda-calculus [[video](https://us02web.zoom.us/rec/share/cJoaRpUYz2Pt7bjGSCNUG6oMo80nCsNXYt0sYpGxexJe-nJNIp7SW5IAgmr9e-nC.tRwWIq-u2I4jZHyR?startTime=1605512147000)]
 
-Lesson 8: monadic effects, computational lambda-calculus
+Lesson 8: adjunctions in 2-categories, monads, comonads
+monadic effects, computational lambda-calculus
 
 Lesson 9: limits, colimits, Kan extensions
 
