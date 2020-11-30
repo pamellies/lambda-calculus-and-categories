@@ -22,6 +22,9 @@ Lesson 8: the simply-typed lambda-calculus, Church encodings [[video](https://us
 
 Lesson 9: the simply-typed lambda-calculus and cartesian closed categories
 [[video](https://us02web.zoom.us/rec/share/w8-fvg3PI9dh694-piXasqn_V_kMWM76-pTWBjhqnUK4rXGCn0nrOQ3S89DQ9D6p.jAbZ22opzwtw414B?startTime=1606722074000)]
+[[notes](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-OnlineNotes9.pdf)]
+[[td](http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/cat/)
++[video](https://us02web.zoom.us/rec/share/w8-fvg3PI9dh694-piXasqn_V_kMWM76-pTWBjhqnUK4rXGCn0nrOQ3S89DQ9D6p.jAbZ22opzwtw414B?startTime=1606730263000)]
 
 
 
