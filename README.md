@@ -20,10 +20,13 @@ Lesson 8: the simply-typed lambda-calculus, Church encodings [[video](https://us
 [[td](http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/cat/)
 +[video](https://us02web.zoom.us/rec/share/lB9xePcWugwqcCRJKlSsNsBvnhETIBDL3TZZE7IC88JxxdsvBiAwHZel3gS7oL0b.XDoT5D9vOBCXVrv4?startTime=1606125095000)]
 
-Lesson 9: adjunctions in 2-categories, monads, comonads
-monadic effects, computational lambda-calculus, limits, colimits, Kan extensions
+Lesson 9: the simply-typed lambda-calculus and cartesian closed categories
+[[video](https://us02web.zoom.us/rec/share/w8-fvg3PI9dh694-piXasqn_V_kMWM76-pTWBjhqnUK4rXGCn0nrOQ3S89DQ9D6p.jAbZ22opzwtw414B?startTime=1606722074000)]
 
-Lesson 10: presheaves, Yoneda embedding, calculus of distributors
+
+
+Lesson 10: adjunctions in 2-categories, monads, comonads
+monadic effects, computational lambda-calculus, limits, colimits, Kan extensions, presheaves, Yoneda embedding, calculus of distributors
 
 Lesson 11: polymorphic lambda-calculus, parametricity, theorems for free
 
