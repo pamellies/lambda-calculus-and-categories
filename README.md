@@ -24,14 +24,13 @@ Lesson 9: the simply-typed lambda-calculus and cartesian closed categories
 [[notes](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-OnlineNotes9.pdf)]
 [[td](http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/cat/) + [video](https://us02web.zoom.us/rec/share/w8-fvg3PI9dh694-piXasqn_V_kMWM76-pTWBjhqnUK4rXGCn0nrOQ3S89DQ9D6p.jAbZ22opzwtw414B?startTime=1606730263000)]
 
-
-
 Lesson 10: adjunctions in 2-categories, monads, comonads
-monadic effects, computational lambda-calculus, limits, colimits, Kan extensions, presheaves, Yoneda embedding, calculus of distributors
 
-Lesson 11: polymorphic lambda-calculus, parametricity, theorems for free
+Lesson 11: monadic effects, computational lambda-calculus, limits, colimits, Kan extensions
 
-Lesson 12: lambda-calculus with dependent types, contextual categories
+Lesson 12: presheaves, Yoneda embedding, coends, calculus of distributors
+
+Alia: polymorphic lambda-calculus, parametricity, theorems for free, lambda-calculus with dependent types, contextual categories
 
 # Homeworks and exercises
 
