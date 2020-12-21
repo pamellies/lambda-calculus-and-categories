@@ -26,7 +26,8 @@ Lesson 9: the simply-typed lambda-calculus and cartesian closed categories
 
 Lesson 10: the free cartesian closed category [[notes](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-OnlineNotes10.pdf)]
 
-Lesson 11: adjunctions in string diagrams [[notes](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-OnlineNotes11.pdf)]
+Lesson 11: adjunctions in string diagrams [[video](https://us02web.zoom.us/rec/share/SRkMnGt4NlyV8bU_9X_NMTca9e2u2qngyTuSg-23Suv0lQyfZzo1MjHsZRV4jmFn.qDbKBsEfldgGcSJd?startTime=1607932120000)]
+[[notes](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-OnlineNotes11.pdf)]
 
 Lesson 12: limits, colimits, Kan extensions, presheaves, Yoneda embedding, coends, calculus of distributors
 
