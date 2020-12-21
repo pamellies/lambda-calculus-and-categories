@@ -25,8 +25,7 @@ Lesson 9: the simply-typed lambda-calculus and cartesian closed categories
 [[td](http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/cat/) + [video](https://us02web.zoom.us/rec/share/w8-fvg3PI9dh694-piXasqn_V_kMWM76-pTWBjhqnUK4rXGCn0nrOQ3S89DQ9D6p.jAbZ22opzwtw414B?startTime=1606730263000)]
 
 Lesson 10: the free cartesian closed category [[video](https://us02web.zoom.us/rec/share/M8txQy4y460uk9rWSkgaJhnhLLYpjcrJedmSzcQi4t28d1jeevUTWfygNFvV6K1N.nk9ugB-kD1Be-FA_?startTime=1607326574000)][[notes](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-OnlineNotes10.pdf)]
-
-
+[[td](http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/cat/) + [video](https://us02web.zoom.us/rec/share/2G0qildQYWHqge9e0QFk8VCQ2E4d3_3pHGKK6nC1OlkNNZWfAX6UYlcVhnyzP_HO.fi6n-xQvzF0QTVV6?startTime=1607334917000)]
 
 Lesson 11: adjunctions in string diagrams [[video](https://us02web.zoom.us/rec/share/SRkMnGt4NlyV8bU_9X_NMTca9e2u2qngyTuSg-23Suv0lQyfZzo1MjHsZRV4jmFn.qDbKBsEfldgGcSJd?startTime=1607932120000)]
 [[notes](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-OnlineNotes11.pdf)]
