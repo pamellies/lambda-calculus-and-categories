@@ -32,6 +32,7 @@ Lesson 11: adjunctions in string diagrams [[video](https://us02web.zoom.us/rec/s
 
 Lesson 12: from adjunctions to monads [[video](https://us02web.zoom.us/rec/share/Bkewri8AXZnvJ1pld8bpgz6q-LTt7Fe2Ih2SrSnB1daFQ47uZOJznCQ6-aEazVxe.I8BtFTNeEgVN620d?startTime=1609746222000)]
 [[notes](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-OnlineNotes12.pdf)]
+[[td](http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/cat/) + [video](https://us02web.zoom.us/rec/share/Bkewri8AXZnvJ1pld8bpgz6q-LTt7Fe2Ih2SrSnB1daFQ47uZOJznCQ6-aEazVxe.I8BtFTNeEgVN620d?startTime=1609753934000)]
 
 Extra Lesson 13: from monads to adjunctions
 
