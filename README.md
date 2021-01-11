@@ -35,7 +35,12 @@ Lesson 12: from adjunctions to monads [[video](https://us02web.zoom.us/rec/share
 [[td](http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/cat/) + [video](https://us02web.zoom.us/rec/share/Bkewri8AXZnvJ1pld8bpgz6q-LTt7Fe2Ih2SrSnB1daFQ47uZOJznCQ6-aEazVxe.I8BtFTNeEgVN620d?startTime=1609753934000)]
 
 Extra Lesson 12+1: from monads to adjunctions
+[[video](https://us02web.zoom.us/rec/share/G2AsP2Dc4IkG9ms9bRrwZ7cjOG6uVxXFn7KVdJFJ9WNbI2srhE2UNyuLLluvCcST.k0Rvdootc9mAtG6w)]
 [[notes](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-OnlineNotes12plus1.pdf)]
+
+
+
+
 
 Not treated here: limits, colimits, Kan extensions, presheaves, Yoneda embedding, coends, calculus of distributors
 
