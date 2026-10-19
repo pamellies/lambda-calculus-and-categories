@@ -8,40 +8,52 @@ Lesson 1: introduction to the course [[notes](https://github.com/pamellies/lambd
 Lesson 2: categories, functors, natural transformations [[notes](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-OnlineNotes2.pdf)]
 <!--[[video](https://us02web.zoom.us/rec/play/5CDUO57ThFQqd5VR-ndW9Rs-c5SStqWCsOcmLW8RSZ7auuZDfVAGFVPZEzQPu_dcfu-WIfZ7l6uv3BGg.6QDbEKYscx2pygpn?continueMode=true&_x_zm_rtaid=fO3DpxSCQxKZXg7DIQCDPg.1602103420184.cd75d6cc607b1b576b4ad15deb3b3a04&_x_zm_rhtaid=364)]-->
 
-Lesson 3: the 2-category of categories [[video](https://us02web.zoom.us/rec/share/GelaTxF2_Z3sn0a4BiGPrrdb_QzdCk0Uj9TE7xkAXbvv-xsKdvU7zPOeckht5o8m.GMMyk2Nd5g_05_Oj?startTime=1602263396000)][[notes](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-OnlineNotes3.pdf)]
+Lesson 3: the 2-category of categories [[notes](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-OnlineNotes3.pdf)]
+<!--[[video](https://us02web.zoom.us/rec/share/GelaTxF2_Z3sn0a4BiGPrrdb_QzdCk0Uj9TE7xkAXbvv-xsKdvU7zPOeckht5o8m.GMMyk2Nd5g_05_Oj?startTime=1602263396000)]-->
 
-Lesson 4: string diagrams and adjunctions [[video](https://us02web.zoom.us/rec/share/sd9VvkiE0BKzYjXVRINtv_xTL2EuHHeY3BOgPphFnRzxz6Z_ucj01b5_zOAXwuLb.gJ4woMHBeEoAtqkR?startTime=1602868393000)][[notes](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-OnlineNotes4.pdf)]
+Lesson 4: string diagrams and adjunctions [[notes](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-OnlineNotes4.pdf)]
+<!--[[video](https://us02web.zoom.us/rec/share/sd9VvkiE0BKzYjXVRINtv_xTL2EuHHeY3BOgPphFnRzxz6Z_ucj01b5_zOAXwuLb.gJ4woMHBeEoAtqkR?startTime=1602868393000)]-->
 
-Lesson 5: the free cartesian category [[video](https://us02web.zoom.us/rec/share/uZyllja_oVaeGNzB01Fp8i_3KVt7oZy_SJpl7KA7KJO-ygm4Q6PG9ap39sTAyLdF.6hB8Wu67CgISWiLe?startTime=1603473377000)][[notes](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-OnlineNotes5.pdf)]
+Lesson 5: the free cartesian category [[[notes](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-OnlineNotes5.pdf)]
+<!--[video](https://us02web.zoom.us/rec/share/uZyllja_oVaeGNzB01Fp8i_3KVt7oZy_SJpl7KA7KJO-ygm4Q6PG9ap39sTAyLdF.6hB8Wu67CgISWiLe?startTime=1603473377000)]-->
 
-Lesson 6: introduction to the lambda-calculus [[video](https://us02web.zoom.us/rec/share/Q-k1P6ELj1vUco0Kpa56nNKyMEhcwGaiHfu82fSOBv3T7FOH8PWYM3sXQDzaLqcT.0pwY7eMtDFimpszF)][[notes 1](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-OnlineNotes6a.pdf)][[notes 2](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-OnlineNotes6b.pdf)]
+Lesson 6: introduction to the lambda-calculus [[notes 1](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-OnlineNotes6a.pdf)][[notes 2](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-OnlineNotes6b.pdf)]
+<!--[[video](https://us02web.zoom.us/rec/share/Q-k1P6ELj1vUco0Kpa56nNKyMEhcwGaiHfu82fSOBv3T7FOH8PWYM3sXQDzaLqcT.0pwY7eMtDFimpszF)]-->
 
-Lesson 7: computing recursive functions using the untyped lambda-calculus [[video](https://us02web.zoom.us/rec/share/cJoaRpUYz2Pt7bjGSCNUG6oMo80nCsNXYt0sYpGxexJe-nJNIp7SW5IAgmr9e-nC.tRwWIq-u2I4jZHyR?startTime=1605512147000)][[notes](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-OnlineNotes7.pdf)][[td](http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/cat/) + [video](https://us02web.zoom.us/rec/share/I9KcdKHX8mosludbEpQNLdwNYgv6-fQcJtwxOVvGFbrcoOSXLuO2m3qF72yVsgrt.98Jg__PmwJ1Kh13I?startTime=1605520163000)]
+Lesson 7: computing recursive functions using the untyped lambda-calculus [[notes](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-OnlineNotes7.pdf)][[td](http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/cat/) 
+<!--[[video](https://us02web.zoom.us/rec/share/cJoaRpUYz2Pt7bjGSCNUG6oMo80nCsNXYt0sYpGxexJe-nJNIp7SW5IAgmr9e-nC.tRwWIq-u2I4jZHyR?startTime=1605512147000)]-->
+<!-- + [video](https://us02web.zoom.us/rec/share/I9KcdKHX8mosludbEpQNLdwNYgv6-fQcJtwxOVvGFbrcoOSXLuO2m3qF72yVsgrt.98Jg__PmwJ1Kh13I?startTime=1605520163000)]-->
 
-Lesson 8: the simply-typed lambda-calculus, Church encodings [[video](https://us02web.zoom.us/rec/share/lB9xePcWugwqcCRJKlSsNsBvnhETIBDL3TZZE7IC88JxxdsvBiAwHZel3gS7oL0b.XDoT5D9vOBCXVrv4?startTime=1606117306000)]
+Lesson 8: the simply-typed lambda-calculus, Church encodings 
 [[notes](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-OnlineNotes8.pdf)]
-[[td](http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/cat/) + [video](https://us02web.zoom.us/rec/share/lB9xePcWugwqcCRJKlSsNsBvnhETIBDL3TZZE7IC88JxxdsvBiAwHZel3gS7oL0b.XDoT5D9vOBCXVrv4?startTime=1606125095000)]
+[[td](http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/cat/) 
+<!-- [[video](https://us02web.zoom.us/rec/share/lB9xePcWugwqcCRJKlSsNsBvnhETIBDL3TZZE7IC88JxxdsvBiAwHZel3gS7oL0b.XDoT5D9vOBCXVrv4?startTime=1606117306000)]
++ [video](https://us02web.zoom.us/rec/share/lB9xePcWugwqcCRJKlSsNsBvnhETIBDL3TZZE7IC88JxxdsvBiAwHZel3gS7oL0b.XDoT5D9vOBCXVrv4?startTime=1606125095000)] -->
 
 Lesson 9: the simply-typed lambda-calculus and cartesian closed categories
-[[video](https://us02web.zoom.us/rec/share/w8-fvg3PI9dh694-piXasqn_V_kMWM76-pTWBjhqnUK4rXGCn0nrOQ3S89DQ9D6p.jAbZ22opzwtw414B?startTime=1606722074000)]
 [[notes](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-OnlineNotes9.pdf)]
-[[td](http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/cat/) + [video](https://us02web.zoom.us/rec/share/w8-fvg3PI9dh694-piXasqn_V_kMWM76-pTWBjhqnUK4rXGCn0nrOQ3S89DQ9D6p.jAbZ22opzwtw414B?startTime=1606730263000)]
+[[td](http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/cat/)
+<!-- [[video](https://us02web.zoom.us/rec/share/w8-fvg3PI9dh694-piXasqn_V_kMWM76-pTWBjhqnUK4rXGCn0nrOQ3S89DQ9D6p.jAbZ22opzwtw414B?startTime=1606722074000)]
++ [video](https://us02web.zoom.us/rec/share/w8-fvg3PI9dh694-piXasqn_V_kMWM76-pTWBjhqnUK4rXGCn0nrOQ3S89DQ9D6p.jAbZ22opzwtw414B?startTime=1606730263000)] -->
 
-Lesson 10: the free cartesian closed category [[video](https://us02web.zoom.us/rec/share/M8txQy4y460uk9rWSkgaJhnhLLYpjcrJedmSzcQi4t28d1jeevUTWfygNFvV6K1N.nk9ugB-kD1Be-FA_?startTime=1607326574000)][[notes](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-OnlineNotes10.pdf)]
-[[td](http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/cat/) + [video](https://us02web.zoom.us/rec/share/2G0qildQYWHqge9e0QFk8VCQ2E4d3_3pHGKK6nC1OlkNNZWfAX6UYlcVhnyzP_HO.fi6n-xQvzF0QTVV6?startTime=1607334917000)]
+Lesson 10: the free cartesian closed category [[notes](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-OnlineNotes10.pdf)]
+[[td](http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/cat/) 
+<!-- [[video](https://us02web.zoom.us/rec/share/M8txQy4y460uk9rWSkgaJhnhLLYpjcrJedmSzcQi4t28d1jeevUTWfygNFvV6K1N.nk9ugB-kD1Be-FA_?startTime=1607326574000)] + [video](https://us02web.zoom.us/rec/share/2G0qildQYWHqge9e0QFk8VCQ2E4d3_3pHGKK6nC1OlkNNZWfAX6UYlcVhnyzP_HO.fi6n-xQvzF0QTVV6?startTime=1607334917000)] -->
 
-Lesson 11: adjunctions in string diagrams [[video](https://us02web.zoom.us/rec/share/SRkMnGt4NlyV8bU_9X_NMTca9e2u2qngyTuSg-23Suv0lQyfZzo1MjHsZRV4jmFn.qDbKBsEfldgGcSJd?startTime=1607932120000)]
+Lesson 11: adjunctions in string diagrams 
 [[notes](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-OnlineNotes11.pdf)]
+<!-- [[video](https://us02web.zoom.us/rec/share/SRkMnGt4NlyV8bU_9X_NMTca9e2u2qngyTuSg-23Suv0lQyfZzo1MjHsZRV4jmFn.qDbKBsEfldgGcSJd?startTime=1607932120000)] -->
 
-Lesson 12: from adjunctions to monads [[video](https://us02web.zoom.us/rec/share/Bkewri8AXZnvJ1pld8bpgz6q-LTt7Fe2Ih2SrSnB1daFQ47uZOJznCQ6-aEazVxe.I8BtFTNeEgVN620d?startTime=1609746222000)]
+Lesson 12: from adjunctions to monads 
 [[notes](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-OnlineNotes12.pdf)]
-[[td](http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/cat/) + [video](https://us02web.zoom.us/rec/share/Bkewri8AXZnvJ1pld8bpgz6q-LTt7Fe2Ih2SrSnB1daFQ47uZOJznCQ6-aEazVxe.I8BtFTNeEgVN620d?startTime=1609753934000)]
+[[td](http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/cat/) 
+
+<!-- [[video](https://us02web.zoom.us/rec/share/Bkewri8AXZnvJ1pld8bpgz6q-LTt7Fe2Ih2SrSnB1daFQ47uZOJznCQ6-aEazVxe.I8BtFTNeEgVN620d?startTime=1609746222000)] + [video](https://us02web.zoom.us/rec/share/Bkewri8AXZnvJ1pld8bpgz6q-LTt7Fe2Ih2SrSnB1daFQ47uZOJznCQ6-aEazVxe.I8BtFTNeEgVN620d?startTime=1609753934000)] -->
 
 Extra Lesson 12+1: from monads to adjunctions
-[[video](https://us02web.zoom.us/rec/share/G2AsP2Dc4IkG9ms9bRrwZ7cjOG6uVxXFn7KVdJFJ9WNbI2srhE2UNyuLLluvCcST.k0Rvdootc9mAtG6w)]
 [[notes](https://github.com/pamellies/lambda-calculus-and-categories/blob/master/LambdaCalculusAndCategories-OnlineNotes12plus1.pdf)]
 
-
+<!-- [[video](https://us02web.zoom.us/rec/share/G2AsP2Dc4IkG9ms9bRrwZ7cjOG6uVxXFn7KVdJFJ9WNbI2srhE2UNyuLLluvCcST.k0Rvdootc9mAtG6w)] -->
 
 
 
